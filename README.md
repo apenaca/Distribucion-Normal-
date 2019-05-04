@@ -25,28 +25,6 @@ Codigo: 100064105
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1.      Puntuaciones de CI. Suponga que sujetos adultos tienen puntuaciones de CI que se distribuyen normalmente, con una media de 100 y una desviación estándar de 15. 
 a.      Calcule la probabilidad de que un adulto que se seleccione al azar tenga un CI menor de 115. 
 
