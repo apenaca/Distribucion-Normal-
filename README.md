@@ -1,0 +1,2 @@
+# Distribucion-Normal-
+Distribucion Normal
